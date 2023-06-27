@@ -1,4 +1,4 @@
-![enter image description here](https://i.ibb.co/Vj7rcnD/Sin-t-tulo.png)
+![enter image description here](https://i.postimg.cc/tgxZRTWH/Sin-t-tulo.png)
  - 🔭 I’m currently working on EMBV SRL and BigWave Social Media
  - 🌱 I’m currently learning Full Stack in Digital House
  - 📫 How to reach me: radioportatil@gmail.com
