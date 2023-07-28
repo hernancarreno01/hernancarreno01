@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!!)](https://git.io/typing-svg)
 ![enter image description here](https://i.postimg.cc/tgxZRTWH/Sin-t-tulo.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!!)](https://git.io/typing-svg)
  - 🔭 I’m currently working on EMBV SRL and BigWave Social Media
  - 🌱 I’m currently learning Full Stack in Digital House
  - 📫 How to reach me: radioportatil@gmail.com
