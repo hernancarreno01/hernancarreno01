@@ -47,7 +47,7 @@ Desarrollador enfocado en construir aplicaciones de alto rendimiento, interfaces
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://media1.giphy.com/media/wGEymBvo6FUlR9bbda/200w.webp?cid=ecf05e47t585jf4bnk9gu9kbwj57v8j8oxwh6abzpi41l24g&ep=v1_gifs_search&rid=200w.webp&ct=g" width="200" />
   <br/>
   <a href="https://git.io/typing-svg">
