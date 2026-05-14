@@ -39,7 +39,6 @@ Desarrollador enfocado en construir aplicaciones de alto rendimiento, interfaces
 ## 📊 Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hernancarreno01&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" width="400" />
   <br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=hernancarreno01&theme=chartreuse-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400" alt="GitHub Streak" />
